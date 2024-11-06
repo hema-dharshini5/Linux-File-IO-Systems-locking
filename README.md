@@ -43,7 +43,7 @@ int main()
 
 
 ## 2.To Write a C program that illustrates files locking
-
+```
 #include <fcntl.h>
 #include <stdio.h>
 #include <string.h>
@@ -86,7 +86,7 @@ int main (int argc, char* argv[])
     close (fd);
     return 0;
 }
-
+```
 
 ## OUTPUT
 
